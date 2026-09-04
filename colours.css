@@ -1,4 +1,8 @@
 :root {
+	--tab-font: 'DejaVu Sans Mono';
+	--urlbar-font: 'DejaVu Sans Mono';
+	--uc-font-size: 11px;
+
 	--tab-active-bg-color: #057;
 	--tab-inactive-bg-color: #333;
 	--tab-active-fg-fallback-color: #eee;		/* color of text in an active tab without a container */
