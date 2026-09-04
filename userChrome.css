@@ -1,10 +1,6 @@
 @import "colours.css";
 
 :root {
-	/* try increasing if you encounter problems */
-	--navbar-height-setting: 24px;
-	--tab-min-height: 16px !important;
-
 	/* I don't recommend you touch this unless you know what you're doing */
 	--arrowpanel-menuitem-padding: 2px !important;
 	--arrowpanel-border-radius: 0 !important;

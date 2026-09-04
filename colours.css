@@ -2,6 +2,8 @@
 	--tab-font: 'DejaVu Sans Mono';
 	--urlbar-font: 'DejaVu Sans Mono';
 	--uc-font-size: 11px;
+	--navbar-height-setting: 24px;
+	--tab-min-height: 16px !important;
 
 	--tab-active-bg-color: #057;
 	--tab-inactive-bg-color: #333;
